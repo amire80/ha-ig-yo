@@ -86,8 +86,9 @@ To type, use the Alt key with the corresponding letters:
 * Mnemonic: "cicumfleX".
 * Example: û - u Alt-X
 
-# Remarks
-1. The three layouts are the same. They are only separate so that it would be easier to find them by the language name.
+# Comments
+
+1. The three layouts are the same. They are stored separately so that it would be easier to find them by the language name in the system preferences. The letters don't overlap, and when two people speaking different languages happen to use the same computer, it would be easier if they didn't have to switch layouts.
 2. I have no intention to declare this as a comprehensive or standard solution. This is just a quick thing to make it possible to type the biggest languages of Nigeria on Mac computers. I hope that more people who are more experienced and professional than I am will come up with better solutions. That said, I do call upon Apple to ship a typing solution for these languages, each of which is spoken by many millions of people, built into the next version of macOS. Whether it will be this layout or something else, is a separate question.
 3. If you want to type these languages on Windows, check your system preferences. There are keyboard layouts for them already built into Windows 10, although the key mapping is different from what is suggested here.
 4. I don't actually know any of these languages. I'm just trying to help people type.
