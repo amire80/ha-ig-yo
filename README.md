@@ -5,7 +5,7 @@ This implements a keyboard layout for macOS for the three major languages of Nig
 
 # Installation
 To install:
-1. Download [Hausa-Igbo-Yoruba.dmg](https://github.com/amire80/ha-ig-yo/blob/master/Hausa-Igbo-Yoruba.dmg).
+1. Download [Hausa-Igbo-Yoruba.dmg](https://github.com/amire80/ha-ig-yo/raw/master/Hausa-Igbo-Yoruba.dmg).
 2. Double click Hausa-Igbo-Yoruba.dmg.
 3. Drag the icon Hausa-Igbo-Yoruba.bundle to the icon "Drag here to install". You will be asked for your password to complete this action.
 4. Click the top Apple  menu, and then System Preferences.
