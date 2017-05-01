@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleIdentifier</key>
+	<string>org.sil.ukelele.keyboardlayout.igboalt</string>
+	<key>CFBundleName</key>
+	<string>Hausa-Igbo-Yoruba</string>
+	<key>CFBundleVersion</key>
+	<string>0.1</string>
+	<key>KLInfo_Hausa - alt</key>
+	<dict>
+		<key>TISInputSourceID</key>
+		<string>org.sil.ukelele.keyboardlayout.igboalt.hausa-alt</string>
+		<key>TISIntendedLanguage</key>
+		<string>ha</string>
+	</dict>
+	<key>KLInfo_Igbo - alt</key>
+	<dict>
+		<key>TISInputSourceID</key>
+		<string>org.sil.ukelele.keyboardlayout.igboalt.igbo-alt</string>
+		<key>TISIntendedLanguage</key>
+		<string>ig</string>
+	</dict>
+	<key>KLInfo_Yoruba - alt</key>
+	<dict>
+		<key>TISInputSourceID</key>
+		<string>org.sil.ukelele.keyboardlayout.igboalt.yoruba-alt</string>
+		<key>TISIntendedLanguage</key>
+		<string>yo</string>
+	</dict>
+</dict>
+</plist>
